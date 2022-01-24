@@ -193,7 +193,7 @@ form{
   form >button:hover {
       border:1px solid cyan;
   }
-  .video{
+  #video{
     display: flexbox;
     justify-content:space-evenly;
   }
